@@ -15,15 +15,17 @@ I'm a full-stack developer with a B.Sc. in Software Engineering. I love to code 
 - **Tools & Frameworks**:
   ![MongoDB](https://skillicons.dev/icons?i=mongodb)
   ![Git](https://skillicons.dev/icons?i=git)
+  ![Expo](https://skillicons.dev/icons?i=expo)
   ![Firebase](https://skillicons.dev/icons?i=firebase)
   ![React](https://skillicons.dev/icons?i=react)
+  ![React Native](https://skillicons.dev/icons?i=react)
 
 ### Additional Knowledge
 - **Languages**:
   ![C](https://skillicons.dev/icons?i=c)
   ![C++](https://skillicons.dev/icons?i=cpp)
   ![Java](https://skillicons.dev/icons?i=java)
-  ![SQL](https://skillicons.dev/icons?i=SQL)
+  ![SQL (PostgreSQL)](https://skillicons.dev/icons?i=postgres)
 
 - **Operating Systems**:
   ![Linux](https://skillicons.dev/icons?i=linux)
