@@ -1,7 +1,5 @@
 # Hi, I'm Hen Simkin 👋
 
-## About Me
-
 I'm a full-stack developer with a B.Sc. in Software Engineering. I love to code and enjoy exploring new technologies to keep up with the latest trends and innovations in software development.
 
 ## 🌐 Technologies
