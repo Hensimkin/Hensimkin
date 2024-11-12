@@ -15,7 +15,6 @@ I'm a full-stack developer with a B.Sc. in Software Engineering. I love to code 
 - **Tools & Frameworks**:
   ![MongoDB](https://skillicons.dev/icons?i=mongodb)
   ![Git](https://skillicons.dev/icons?i=git)
-  ![Expo](https://skillicons.dev/icons?i=expo)
   ![Firebase](https://skillicons.dev/icons?i=firebase)
   ![React](https://skillicons.dev/icons?i=react)
   ![React Native](https://skillicons.dev/icons?i=react)
