@@ -28,4 +28,7 @@ I'm a full-stack developer with a B.Sc. in Software Engineering. I love to code 
 - **Operating Systems**:
   ![Linux](https://skillicons.dev/icons?i=linux)
 
+## 🤝 Connect with me
+- [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/your-linkedin-profile)
+
 Feel free to connect and learn more about my projects!
