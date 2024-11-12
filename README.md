@@ -23,7 +23,7 @@ I'm a full-stack developer with a B.Sc. in Software Engineering. I love to code 
   ![C](https://skillicons.dev/icons?i=c)
   ![C++](https://skillicons.dev/icons?i=cpp)
   ![Java](https://skillicons.dev/icons?i=java)
-  ![SQL](https://skillicons.dev/icons?i=mysql)
+  ![SQL](https://skillicons.dev/icons?i=postgres)
 
 - **Operating Systems**:
   ![Linux](https://skillicons.dev/icons?i=linux)
