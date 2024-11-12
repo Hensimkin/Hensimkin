@@ -17,7 +17,6 @@ I'm a full-stack developer with a B.Sc. in Software Engineering. I love to code 
   ![Git](https://skillicons.dev/icons?i=git)
   ![Firebase](https://skillicons.dev/icons?i=firebase)
   ![React](https://skillicons.dev/icons?i=react)
-  ![React Native](https://skillicons.dev/icons?i=react)
 
 ### Additional Knowledge
 - **Languages**:
