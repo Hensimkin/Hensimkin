@@ -11,12 +11,15 @@ I'm a full-stack developer with a B.Sc. in Software Engineering. I love to code 
   ![Python](https://skillicons.dev/icons?i=python)
   ![JavaScript](https://skillicons.dev/icons?i=javascript)
   ![TypeScript](https://skillicons.dev/icons?i=typescript)
+  ![HTML](https://skillicons.dev/icons?i=html)
+  ![CSS](https://skillicons.dev/icons?i=css)
 
 - **Tools & Frameworks**:
   ![MongoDB](https://skillicons.dev/icons?i=mongodb)
   ![Git](https://skillicons.dev/icons?i=git)
   ![Firebase](https://skillicons.dev/icons?i=firebase)
   ![React](https://skillicons.dev/icons?i=react)
+  ![Node.js](https://skillicons.dev/icons?i=nodejs)
 
 ### Additional Knowledge
 - **Languages**:
