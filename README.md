@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, my name is Hen Simkin 👋
 
-<!--
-**Hensimkin/Hensimkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a full-stack developer with a B.Sc. in Software Engineering. I love to code and enjoy exploring new technologies to keep up with the latest trends and innovations in software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Technologies
+
+### Core Expertise
+- **Languages**: Python, JavaScript, TypeScript
+- **Tools & Frameworks**: MongoDB, Git, Expo, Firebase, React, React Native
+
+### Additional Knowledge
+- **Languages**: C, C++, Java, SQL
+- **Operating Systems**: Linux
+
+Feel free to connect and learn more about my projects!
