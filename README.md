@@ -20,7 +20,7 @@ I'm a full-stack developer with a B.Sc. in Software Engineering. I love to code 
 
 - **Operating Systems**:
   
-  ![Linux](https://skillicons.dev/icons?i=linux)
+  ![Linux](https://skillicons.dev/icons?i=linux) ![Windows](https://skillicons.dev/icons?i=windows)
 
 ## 🛠 Skills
 - **Mobile Development**: React Native, Expo
