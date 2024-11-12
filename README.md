@@ -19,10 +19,10 @@ I'm a full-stack developer with a B.Sc. in Software Engineering. I love to code 
   ![Git](https://skillicons.dev/icons?i=git)
   ![Firebase](https://skillicons.dev/icons?i=firebase)
   ![React](https://skillicons.dev/icons?i=react)
-  ![React Native](https://skillicons.dev/icons?i=react)
   ![Node.js](https://skillicons.dev/icons?i=nodejs)
   ![Express.js](https://skillicons.dev/icons?i=express)
   ![Expo](https://skillicons.dev/icons?i=expo)
+  ![FastAPI](https://skillicons.dev/icons?i=fastapi)
 
 ### Additional Knowledge
 - **Languages**:
@@ -35,11 +35,9 @@ I'm a full-stack developer with a B.Sc. in Software Engineering. I love to code 
   ![Linux](https://skillicons.dev/icons?i=linux)
 
 ## 🛠 Skills
-- **MERN Stack**: MongoDB, Express.js, React, Node.js
-- **REST APIs**: Building and integrating RESTful APIs
 - **Mobile Development**: React Native, Expo
-- **Backend Development**: Node.js, Express.js
-- **Database Management**: MongoDB
+- **Backend Development**: Node.js, Express.js, FastAPI
+- **Database Management**: MongoDB, Firebase
 - **Frontend Development**: React, HTML, CSS
 
 ## 🤝 Connect with me
