@@ -21,7 +21,6 @@ I'm a full-stack developer with a B.Sc. in Software Engineering. I love to code 
   ![React](https://skillicons.dev/icons?i=react)
   ![Node.js](https://skillicons.dev/icons?i=nodejs)
   ![Express.js](https://skillicons.dev/icons?i=express)
-  ![Expo](https://skillicons.dev/icons?i=expo)
   ![FastAPI](https://skillicons.dev/icons?i=fastapi)
 
 ### Additional Knowledge
