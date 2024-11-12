@@ -1,4 +1,4 @@
-# Hi, my name is Hen Simkin 👋
+# Hi, I'm Hen Simkin 👋
 
 ## About Me
 
