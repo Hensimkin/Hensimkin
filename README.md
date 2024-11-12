@@ -7,11 +7,27 @@ I'm a full-stack developer with a B.Sc. in Software Engineering. I love to code 
 ## 🌐 Technologies
 
 ### Core Expertise
-- **Languages**: Python, JavaScript, TypeScript
-- **Tools & Frameworks**: MongoDB, Git, Expo, Firebase, React, React Native
+- **Languages**:
+  ![Python](https://skillicons.dev/icons?i=python)
+  ![JavaScript](https://skillicons.dev/icons?i=javascript)
+  ![TypeScript](https://skillicons.dev/icons?i=typescript)
+
+- **Tools & Frameworks**:
+  ![MongoDB](https://skillicons.dev/icons?i=mongodb)
+  ![Git](https://skillicons.dev/icons?i=git)
+  ![Expo](https://skillicons.dev/icons?i=expo)
+  ![Firebase](https://skillicons.dev/icons?i=firebase)
+  ![React](https://skillicons.dev/icons?i=react)
+  ![React Native](https://skillicons.dev/icons?i=react)
 
 ### Additional Knowledge
-- **Languages**: C, C++, Java, SQL
-- **Operating Systems**: Linux
+- **Languages**:
+  ![C](https://skillicons.dev/icons?i=c)
+  ![C++](https://skillicons.dev/icons?i=cpp)
+  ![Java](https://skillicons.dev/icons?i=java)
+  ![SQL](https://skillicons.dev/icons?i=mysql)
+
+- **Operating Systems**:
+  ![Linux](https://skillicons.dev/icons?i=linux)
 
 Feel free to connect and learn more about my projects!
